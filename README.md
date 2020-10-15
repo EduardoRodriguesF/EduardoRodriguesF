@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Eduardo 👋
 
+- I'm actively looking for a job as **front-end developer** 👁‍🗨
+
+- Currently taking [*Next Level Week #3 🚀*](https://nextlevelweek.com/inscricao/3) course
+
+- Looking forward to learn **React.js** ⚛
+
+### Reach me!
+[![Gmail Badge](https://img.shields.io/badge/-eduardo.rodrigues.fer-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.rodrigues.fer@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/)](https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/)
 <!--
 **EduardoRodriguesF/EduardoRodriguesF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
