@@ -1,8 +1,8 @@
-### Hi, I'm Eduardo 👋
+<h3 align="center"> Hi, I'm Eduardo 👋 </h3>
 
-- I'm actively looking for a job as **front-end developer** 👁‍🗨
+- I'm actively looking for jobs as **front-end developer** 👁‍🗨
 
-- Currently taking [*Next Level Week #3 🚀*](https://nextlevelweek.com/inscricao/3) course
+- Currently taking [*Next Level Week #3 🚀*](https://github.com/EduardoRodriguesF/happy) course
 
 - Looking forward to learn **React.js** ⚛
 
