@@ -1,10 +1,10 @@
 <h3 align="center"> Hi, I'm Eduardo 👋 </h3>
 
-- I'm actively looking for jobs as **front-end developer** 👁‍🗨
+- Open for **front-end developer** jobs 👁‍🗨
 
 - Currently taking [*GoStack Bootcamp 🚀*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
 
-- Looking forward to learn **React.js** ⚛
+- Looking forward to learn **NodeJS** and **ReactJS** ⚛
 
 ### Reach me!
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.rodrigues.fer@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.rodrigues.fer@gmail.com)](mailto:eduardo.rodrigues.fer@gmail.com)
