@@ -4,7 +4,7 @@
 
 - Currently taking [*GoStack Bootcamp 🚀*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
 
-- Looking forward to learn **NodeJS** and **ReactJS** ⚛
+- Looking forward to learn **TypeScript**, **NodeJS** and **ReactJS** ⚛
 
 ### Reach me!
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.rodrigues.fer@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.rodrigues.fer@gmail.com)](mailto:eduardo.rodrigues.fer@gmail.com)
