@@ -1,6 +1,6 @@
 <h3 align="center"> Hi, I'm Eduardo 👋 </h3>
 
-- Open for **front-end developer** jobs 👁‍🗨
+- Open for **Front-end Developer** jobs 👁‍🗨
 
 - Currently taking [*GoStack Bootcamp 🚀*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
 
