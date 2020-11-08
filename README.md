@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Eduardo 👋 </h3>
+<h3 align="center">Hi, I'm Eduardo 👋</h3>
 
 👁‍🗨 Open for **Front-end Developer** jobs 
 
