@@ -4,6 +4,8 @@
 
 🚀 Currently taking [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
 
+⛰️ Participating in the [Mega Hack 5.0](https://www.megahack.com.br)
+
 ⚛ Looking forward to learn **TypeScript**, **NodeJS** and **ReactJS** 
 
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192)
