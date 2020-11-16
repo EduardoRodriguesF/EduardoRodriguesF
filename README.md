@@ -1,4 +1,14 @@
-<h3 align="center">Hi, I'm Eduardo 👋</h3>
+<h1 align="center">Hi, I'm Eduardo 👋</h1>
+<p align="center">
+  <img src="https://icongr.am/devicon/html5-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/react-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size="20" />
+  <img src="https://icongr.am/devicon/git-original.svg?size="20" />
+</p>
 
 👁‍🗨 Open for **Front-end Developer** jobs 
 
@@ -6,17 +16,27 @@
 
 ⚛ Looking forward to learn **TypeScript**, **NodeJS** and **ReactJS** 
 
-⛰️ Participating in the [Mega Hack 5.0](https://www.megahack.com.br)
-
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192)
 
-<h3 align="center">📬 Reach me!</h3>
+<br />
+
+<h2>⛰️ Hackatons</h2>
+
+[Mega Hack](https://www.megahack.com.br) 5.0 (Nov. 9th — Nov. 15th, 2020)
+
+<a href="https://github.com/EduardoRodriguesF/first-rocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" />
+</a>
+<a href="https://github.com/luccadias/first-rocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luccagdias&repo=first-rocket" />
+</a>
+
+<br />
+<br />
+
+<h2 align="center">📬 Reach me!</h2>
 
 <p align="center">
-  <a href="mailto:eduardo.rodrigues.fer@gmail.com">
-    <img src="https://img.shields.io/badge/-eduardo.rodrigues.fer@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.rodrigues.fer@gmail.com">
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/">
-    <img src="https://img.shields.io/badge/-Eduardo%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/" >
-  </a>
+  <a href="https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="32" width="32" /></a>
+  <a href="mailto:eduardo.rodrigues.fer@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="32" width="32" /></a>
 </p>
