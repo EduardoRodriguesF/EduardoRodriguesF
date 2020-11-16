@@ -37,6 +37,6 @@
 <h2 align="center">📬 Reach me!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="32" width="32" /></a>
-  <a href="mailto:eduardo.rodrigues.fer@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="32" width="32" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
+  <a href="mailto:eduardo.rodrigues.fer@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="20" width="20" /></a>
 </p>
