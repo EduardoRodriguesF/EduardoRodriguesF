@@ -14,7 +14,7 @@
 
 🚀 Currently taking [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
 
-⚛ Looking forward to learn **TypeScript**, **NodeJS** and **ReactJS** 
+⚛ Learning **TypeScript**, **NodeJS** and **ReactJS** 
 
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192)
 
@@ -22,13 +22,9 @@
 
 <h2>⛰️ Hackatons</h2>
 
-[Mega Hack](https://www.megahack.com.br) 5.0 (Nov. 9th — Nov. 15th, 2020)
-
+<h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 (Nov. 9th — Nov. 15th, 2020)</h3>
 <a href="https://github.com/EduardoRodriguesF/first-rocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" />
-</a>
-<a href="https://github.com/luccadias/first-rocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luccagdias&repo=first-rocket" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" width="49%" />
 </a>
 
 <br />
