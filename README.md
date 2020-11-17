@@ -18,17 +18,12 @@
 
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192)
 
-<br />
-
 <h2>⛰️ Hackatons</h2>
 
 <h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 (Nov. 9th — Nov. 15th, 2020)</h3>
 <a href="https://github.com/EduardoRodriguesF/first-rocket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" width="49%" />
 </a>
-
-<br />
-<br />
 
 <h2 align="center">📬 Reach me!</h2>
 
