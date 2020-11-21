@@ -20,7 +20,7 @@
 
 <h2>⛰️ Hackatons</h2>
 
-<h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 (Nov. 9th — Nov. 15th, 2020)</h3>
+<h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 (Nov. 9th — Nov. 15th, 2020) — <i>Finalists</i></h3>
 <a href="https://github.com/EduardoRodriguesF/first-rocket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" width="49%" />
 </a>
