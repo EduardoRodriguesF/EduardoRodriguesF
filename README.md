@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
 👁‍🗨 Open for **Front-end Developer** jobs 
