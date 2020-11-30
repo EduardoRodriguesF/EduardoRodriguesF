@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 <p align="center">
-  <img src="https://icongr.am/devicon/html5-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/typescript-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/react-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size="20" />
-  <img src="https://icongr.am/devicon/git-original.svg?size="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="24" />
 </p>
 
 👁‍🗨 Open for **Front-end Developer** jobs 
