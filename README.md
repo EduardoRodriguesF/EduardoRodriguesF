@@ -10,13 +10,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
-👁‍🗨 Open for **Front-end Developer** jobs 
+👁‍🗨 Open for **Front-end Developer** jobs;
 
-🚀 Currently taking [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421)
+🚀 Currently taking [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421);
 
-⚛ Learning **TypeScript**, **NodeJS** and **ReactJS** 
+⚛ Learning **TypeScript**, **NodeJS** and **React**;
 
-📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192)
+📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
 
 <h2>⛰️ Hackatons</h2>
 
