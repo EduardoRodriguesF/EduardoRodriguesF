@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
-👁‍🗨 Open for **Front-end Developer** jobs;
+👁‍🗨 Open for **front-end developer** jobs;
 
 🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) Recently;
 
