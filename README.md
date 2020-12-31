@@ -12,7 +12,7 @@
 
 👁‍🗨 Open for **front-end developer** jobs;
 
-🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) Recently;
+🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) recently;
 
 ⚛ Learning **TypeScript**, **NodeJS** and **React**;
 
