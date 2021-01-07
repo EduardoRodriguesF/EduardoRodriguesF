@@ -20,7 +20,7 @@
 
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
 
-🕹 Game dev on free time;
+🕹 [Game dev](https://dardo.itch.io) on free time;
 
 <h2>⛰️ Hackatons</h2>
 
