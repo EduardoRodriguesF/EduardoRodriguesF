@@ -18,9 +18,9 @@
 
 ⚛ Learning **TypeScript**, **NodeJS** and **React**;
 
-📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
+🕹 Learning game development on free time;
 
-🕹 [Game dev](https://dardo.itch.io) on free time;
+📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
 
 <h2>⛰️ Hackatons</h2>
 
