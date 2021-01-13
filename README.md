@@ -14,7 +14,7 @@
 
 🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) recently;
 
-👨‍🎓 Going to [**UNISANTA**](https://www.unisanta.br/) University on February.
+👨‍🎓 Going to [**Unisanta**](https://www.unisanta.br/) University on February.
 
 ⚛ Learning **TypeScript**, **NodeJS** and **React**;
 
