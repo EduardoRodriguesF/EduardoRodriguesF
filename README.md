@@ -16,7 +16,7 @@
 
 👨‍🎓 Going to [**Unisanta**](https://www.unisanta.br/) University on February.
 
-⚛ Learning **TypeScript**, **NodeJS** and **React**;
+⚛ Learning **TypeScript** and **React**;
 
 🕹 Learning game development on free time;
 
