@@ -5,8 +5,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="28" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="28" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="28" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="28" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="28" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
