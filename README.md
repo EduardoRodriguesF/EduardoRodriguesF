@@ -16,7 +16,7 @@
 
 ⚛ Learning **TypeScript** and **React**;
 
-🕹 Learning game development on free time;
+🕹 Taking Game Jams to learn game development on free time;
 
 📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
 
