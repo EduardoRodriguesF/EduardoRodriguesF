@@ -18,8 +18,6 @@
 
 🕹 Taking Game Jams to learn game development on free time;
 
-📚 My [Programming Wiki](https://www.notion.so/Programming-Wiki-f0ccfd13c6bd45c4a42e4ece00e9c192);
-
 <h2>⛰️ Hackatons</h2>
 
 <h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 — <i>Finalists</i></h3>
