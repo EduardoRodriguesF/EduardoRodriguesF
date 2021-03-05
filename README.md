@@ -16,7 +16,7 @@
 
 ⚛ Learning **TypeScript** and **React**;
 
-🕹 Taking Game Jams to learn game development on free time;
+🕹 learning game development on free time;
 
 <h2>⛰️ Hackatons</h2>
 
