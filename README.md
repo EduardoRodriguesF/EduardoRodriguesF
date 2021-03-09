@@ -11,6 +11,7 @@
 👁‍🗨 Open for **front-end developer** jobs;
 
 🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) recently;
+  Just started [*Ignite*](https://passport.rocketseat.com.br/ig-reactjs-01/eduardo-rodrigues-02421);
 
 👨‍🎓 Studying at **Unisanta** University.
 
