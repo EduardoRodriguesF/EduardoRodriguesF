@@ -17,7 +17,7 @@
 
 ⚛ Learning **TypeScript** and **React**;
 
-🕹 learning game development on free time;
+🕹 learning game development with C# on free time;
 
 <h2>⛰️ Hackatons</h2>
 
