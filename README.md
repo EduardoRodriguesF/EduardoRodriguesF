@@ -10,14 +10,13 @@
 
 👁‍🗨 Open for **front-end developer** jobs;
 
-🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421) recently;
-  Just started [*Ignite*](https://passport.rocketseat.com.br/ig-reactjs-01/eduardo-rodrigues-02421);
+👨‍🎓 Studying at **Unisanta** University;
 
-👨‍🎓 Studying at **Unisanta** University.
+🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421);
 
-⚛ Learning **TypeScript** and **React**;
+⚛ Studied **TypeScript** and **React**;
 
-🕹 learning game development with C# on free time;
+🕹 Learning C# with Monogame framework.
 
 <h2>⛰️ Hackatons</h2>
 
