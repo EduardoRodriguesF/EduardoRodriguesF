@@ -16,7 +16,7 @@
 
 ⚛ Studied **TypeScript** and **React**;
 
-🕹 Learning C# with Monogame framework.
+🕹 Learning **C#** with Monogame framework.
 
 <h2>⛰️ Hackatons</h2>
 
