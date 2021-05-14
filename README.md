@@ -14,8 +14,6 @@
 
 🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421);
 
-⚛ Studied **TypeScript** and **React**;
-
 🕹 Learning **C#** with Monogame framework.
 
 <h2>⛰️ Hackatons</h2>
