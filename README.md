@@ -8,7 +8,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
-👁‍🗨 Open for **front-end developer** jobs;
+<!-- 👁‍🗨 Open for **front-end developer** jobs; -->
 
 👨‍🎓 Studying at **Unisanta** University;
 
