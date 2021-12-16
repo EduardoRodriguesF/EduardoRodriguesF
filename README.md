@@ -10,9 +10,11 @@
 
 <!-- 👁‍🗨 Open for **front-end developer** jobs; -->
 
+💼 Working at **Econverse**;
+
 👨‍🎓 Studying at **Unisanta** University;
 
-🚀 Took [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421);
+🚀 [*GoStack Bootcamp*](https://gostack.rocketseat.com.br/14/eduardo-rodrigues-02421);
 
 🕹 Learning **C#** with Monogame framework.
 
