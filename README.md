@@ -14,6 +14,8 @@
 
 💡 Developing nice applications on free time;
 
+🎮 Interested in game development;
+
 <h2>⛰️ Hackatons</h2>
 
 <h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 — <i>Finalists</i></h3>
