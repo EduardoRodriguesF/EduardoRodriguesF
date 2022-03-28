@@ -12,9 +12,9 @@
 
 💼 Working at **Econverse**;
 
-💡 Developing nice applications on free time;
+💡 Developing **nice applications** on free time;
 
-🎮 Interested in game development;
+🎮 Interested in **game development**;
 
 <h2>⛰️ Hackatons</h2>
 
