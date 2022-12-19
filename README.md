@@ -8,20 +8,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
 </p>
 
-<!-- 👁‍🗨 Open for **front-end developer** jobs; -->
-
-💼 Working at **Econverse**;
-
-💡 Love to develop **nice web solutions**;
+💼 Front-end developer at **Econverse**;
 
 🎮 **Game developer** on free time;
-
-<h2>⛰️ Hackatons</h2>
-
-<h3><a href="https://www.megahack.com.br">Mega Hack</a> 5.0 — <i>Finalists</i></h3>
-<a href="https://github.com/EduardoRodriguesF/first-rocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesF&repo=first-rocket" width="49%" />
-</a>
 
 <h2 align="center">📬 Reach me!</h2>
 
