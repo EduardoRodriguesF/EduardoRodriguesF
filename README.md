@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="28" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="28" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="28" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="24" />
 </p>
 
 💼 Front-end developer at **Econverse**;
