@@ -1,18 +1,7 @@
-<h1 align="center">Hi, I'm Eduardo 👋</h1>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="24" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="24" />
-</p>
+# Hi, I'm Eduardo 👋
 
-💼 Front-end developer at **Econverse**;
+* Front-end developer at **Econverse**;
 
-🎮 **Game developer** on free time;
+* **Game developer** on free time;
 
-<h2 align="center">📬 Reach me!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-rodrigues-4b3624190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
-  <a href="mailto:contato@edurodrigues.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="20" width="20" /></a>
-</p>
+ * Working on my CLI tool: [**quartz**](https://github.com/eduardorodriguesf/quartz)
