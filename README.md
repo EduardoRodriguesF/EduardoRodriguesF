@@ -1,4 +1,4 @@
-* Front-end developer at **Econverse**;
+* Senior Software Engineer (Tech Lead) at **Itaú**;
 
 * Computer Engineering student at **FIAP**;
 
